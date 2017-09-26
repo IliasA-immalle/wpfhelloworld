@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFHelloWorld", "WPFHelloWorld.\WPFHelloWorld.csproj", "{4A238B5D-7826-4965-A062-89F5FC5C5E67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp6", "WpfApp6\WpfApp6.csproj", "{8742C812-BC40-48CD-B50D-C2E6F55C2E13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A238B5D-7826-4965-A062-89F5FC5C5E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A238B5D-7826-4965-A062-89F5FC5C5E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A238B5D-7826-4965-A062-89F5FC5C5E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A238B5D-7826-4965-A062-89F5FC5C5E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8742C812-BC40-48CD-B50D-C2E6F55C2E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8742C812-BC40-48CD-B50D-C2E6F55C2E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8742C812-BC40-48CD-B50D-C2E6F55C2E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8742C812-BC40-48CD-B50D-C2E6F55C2E13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {433E9CEF-4CE9-40F3-940F-3373255890C6}
+		SolutionGuid = {4E5E4EB0-9333-4C52-BB4C-3FC378A90E5C}
 	EndGlobalSection
 EndGlobal

@@ -5,8 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFHelloWorld"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="300" Width="300">
     <Grid>
-        
+        <Label Content="hallo wereld" HorizontalAlignment="Left" Margin="42,54,0,0" VerticalAlignment="Top" Width="142"/>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="166,149,0,0"/>
     </Grid>
 </Window>
